@@ -1,0 +1,42 @@
+/* ---------------- FRONT CONTENT STYLES START ---------------- */
+
+.zodiac-widget {
+    width: 100%;
+    overflow-y: auto;
+    height: auto;
+    border-radius: 4px;
+    background-color: #e35a36;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.zodiac-widget .zodiac-image {
+    width: 100%;
+    max-width: 86px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: none;
+    display: block
+}
+
+.zodiac-widget .zodiac-name {
+    width: 100%;
+    font-family: arial, sans-serif !important;
+    font-size: 20px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+
+.zodiac-widget p.zodiac-content {
+    width: 100%;
+    box-sizing: border-box;
+    text-align: left;
+    color: #fff;
+    line-height: 19px !important;
+    font-size: 14px !important;
+    margin: 0 !important;
+    font-family: arial, sans-serif !important;
+}
