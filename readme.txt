@@ -6,7 +6,7 @@ Requires at least: 3.0.1
 Tested up to: 4.0
 License URI: http://laptrinh.senviet.org
 
-WP Horoscope - **Cung hoàng đạo cho wordpress** giúp hiển thị thông tin trong ngày của các cung hoàng đạo.
+WP Horoscope - Cung hoàng đạo cho wordpress giúp hiển thị thông tin trong ngày của các cung hoàng đạo.
 
 == Description ==
 WP Horoscope là một plugin rất hay, cho phép bạn lấy thông tin trong 1 ngày của các cung hoàng đạo cho wordpress. Hỗ trợ bạn hiển thị trong widget hoặc trong shortcut.
@@ -25,5 +25,5 @@ Plugin hỗ trợ hai vị trí hiển thị là trong sidebar và trong shortco
 **Github** : [wp-horoscope](https://github.com/senviet/wp-horoscope)
 
 == Screenshots ==
-1. widget
-2. shortcut
+1. shortcut
+2. widget
